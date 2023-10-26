@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Prasanna_MERN_React_Task5-main/static/css/main.4f00b16a.css",
+    "main.js": "/Prasanna_MERN_React_Task5-main/static/js/main.ad47fed6.js",
+    "static/js/787.04baedd0.chunk.js": "/Prasanna_MERN_React_Task5-main/static/js/787.04baedd0.chunk.js",
+    "static/media/logo.svg": "/Prasanna_MERN_React_Task5-main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prasanna_MERN_React_Task5-main/index.html",
+    "main.4f00b16a.css.map": "/Prasanna_MERN_React_Task5-main/static/css/main.4f00b16a.css.map",
+    "main.ad47fed6.js.map": "/Prasanna_MERN_React_Task5-main/static/js/main.ad47fed6.js.map",
+    "787.04baedd0.chunk.js.map": "/Prasanna_MERN_React_Task5-main/static/js/787.04baedd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f00b16a.css",
+    "static/js/main.ad47fed6.js"
+  ]
+}
