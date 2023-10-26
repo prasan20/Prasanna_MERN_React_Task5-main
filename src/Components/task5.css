@@ -1,0 +1,44 @@
+.age-calculator {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  .input-container {
+    margin-bottom: 10px; /* Add margin at the bottom to separate from the button */
+  }
+  
+  .date-input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .button-container {
+    margin-top: 10px; /* Add margin at the top to move the button to the next line */
+  }
+  
+  .calculate-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .calculate-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
